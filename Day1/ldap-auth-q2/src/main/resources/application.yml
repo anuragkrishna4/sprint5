@@ -1,0 +1,11 @@
+spring:
+  ldap:
+    embedded:
+      base-dn: dc=springframework,dc=org
+      credential:
+        username: uid=admin
+        password: admin
+      ldif: classpath:test-ldap.ldif
+      port: 8389
+server:
+  port: 8082

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day1/SpringSecurity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day1/SpringSecurityInmemory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day1/spring-boot-LDAP-authentication-app" vcs="Git" />
+  </component>
+</project>

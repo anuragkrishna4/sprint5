@@ -1,0 +1,4 @@
+server:
+  port: 8082
+jwt:
+  secret: MyVerySecureAndLongJwtSecretKey1234567890!
